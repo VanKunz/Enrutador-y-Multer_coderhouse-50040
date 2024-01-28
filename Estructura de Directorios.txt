@@ -1,0 +1,12 @@
+/
+|-- node_modules/
+|-- routes/
+|   |-- products.js
+|   |-- carts.js
+|-- uploads/
+|-- .gitignore
+|-- app.js
+|-- carritos.json
+|-- productos.json
+|-- package.json
+|-- README.md
